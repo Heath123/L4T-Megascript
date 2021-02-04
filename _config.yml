@@ -1,4 +1,5 @@
 theme: jekyll-theme-hacker
+url: https://cobalt2727.github.io/L4T-Megascript/
 plugins:
   - jekyll-sitemap
   
