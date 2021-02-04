@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the homepage for the L4T Megascript!
 
-You can use the [editor on GitHub](https://github.com/cobalt2727/L4T-Megascript/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is still a work in progress, but you can refer to the [GitHub wiki](https://github.com/cobalt2727/L4T-Megascript/wiki) while we move through the process of getting everything transitioned over here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -10,6 +9,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+```
 
 # Header 1
 ## Header 2
